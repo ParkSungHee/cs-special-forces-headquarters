@@ -1,4 +1,4 @@
-# cs-special-forces-headquarters
+# CS 스터디
 
 여기는 CS 특공대 본부입니다.
 
